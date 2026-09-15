@@ -1,0 +1,38 @@
+Airport,City,Country
+JFK,New York,USA
+LGA,New York,USA
+EWR,New York,USA
+LHR,London,UK
+LGW,London,UK
+STN,London,UK
+SVO,Moscow,Russia
+DME,Moscow,Russia
+CDG,Paris,France
+ORY,Paris,France
+HND,Tokyo,Japan
+NRT,Tokyo,Japan
+FRA,Frankfurt,Germany
+BER,Berlin,Germany
+FCO,Rome,Italy
+MAD,Madrid,Spain
+AMS,Amsterdam,Netherlands
+DXB,Dubai,UAE
+SIN,Singapore,Singapore
+SYD,Sydney,Australia
+YYZ,Toronto,Canada
+ORD,Chicago,USA
+LAX,Los Angeles,USA
+PEK,Beijing,China
+BOM,Mumbai,India
+IST,Istanbul,Turkey
+CAI,Cairo,Egypt
+GRU,Sao Paulo,Brazil
+MEX,Mexico City,Mexico
+BKK,Bangkok,Thailand
+ICN,Seoul,South Korea
+ZRH,Zurich,Switzerland
+VIE,Vienna,Austria
+DUB,Dublin,Ireland
+LIS,Lisbon,Portugal
+ATH,Athens,Greece
+WAW,Warsaw,Poland
